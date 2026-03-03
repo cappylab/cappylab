@@ -82,10 +82,13 @@ mantra: "Clean code, strong coffee, zero downtime"
 
 <p align="center">
   <a href="https://github.com/jhm1909">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhm1909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=bb86fc&text_color=c9d1d9&ring_color=00d4ff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhm1909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=bb86fc&text_color=c9d1d9&ring_color=00d4ff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/jhm1909">
-    <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhm1909&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhm1909&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
