@@ -4,44 +4,65 @@
             <stop offset="0%" style="stop-color:#00d4ff" />
             <stop offset="100%" style="stop-color:#bb86fc" />
         </linearGradient>
+        <linearGradient id="snake-body" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#2ea043" />
+            <stop offset="100%" style="stop-color:#3fb950" />
+        </linearGradient>
     </defs>
     <style>
-        @keyframes leaf-sway {
+        @keyframes slither {
 
             0%,
             100% {
-                transform: rotate(-3deg);
+                transform: translateX(0);
             }
 
             50% {
-                transform: rotate(3deg);
+                transform: translateX(2px);
             }
         }
 
-        .leaf {
-            animation: leaf-sway 3s ease-in-out infinite alternate;
-            transform-origin: center bottom;
+        @keyframes tongue-flick {
+
+            0%,
+            70%,
+            100% {
+                transform: scaleX(1);
+            }
+
+            80% {
+                transform: scaleX(0.3);
+            }
+        }
+
+        @keyframes blink {
+
+            0%,
+            90%,
+            92%,
+            100% {
+                transform: scaleY(1);
+            }
+
+            91% {
+                transform: scaleY(0.1);
+            }
+        }
+
+        .snake {
+            animation: slither 3s ease-in-out infinite;
+        }
+
+        .tongue {
+            animation: tongue-flick 2s ease-in-out infinite;
+            transform-origin: right center;
             transform-box: fill-box;
         }
 
-        .leaf-d1 {
-            animation-delay: 0s;
-        }
-
-        .leaf-d2 {
-            animation-delay: 0.5s;
-        }
-
-        .leaf-d3 {
-            animation-delay: 1s;
-        }
-
-        .leaf-d4 {
-            animation-delay: 1.5s;
-        }
-
-        .leaf-d5 {
-            animation-delay: 2s;
+        .sn-eyes {
+            animation: blink 4s linear infinite;
+            transform-origin: center;
+            transform-box: fill-box;
         }
     </style>
     <!-- Header bar -->
@@ -49,91 +70,80 @@
     <text x="340" y="46" font-family="Segoe UI,sans-serif" font-size="16" font-weight="bold" fill="white"
         text-anchor="middle" letter-spacing="2">CONTRIBUTION SNAKE</text>
 
-    <!-- Vine wrapping around header bar from right to left -->
-    <g>
-        <!-- Back vine (behind bar) — dimmed -->
-        <path d="M 700 40
-            C 680 40, 670 35, 650 20
-            C 635 8, 620 0, 600 0
-            C 580 0, 570 5, 555 20
-            C 540 40, 530 65, 510 65
-            C 490 65, 480 60, 465 45
-            C 450 28, 440 10, 420 10
-            C 400 10, 390 15, 375 30
-            C 360 50, 350 70, 330 70
-            C 310 70, 300 60, 285 45
-            C 270 30, 260 10, 240 10" fill="none" stroke="#2ea043" stroke-width="3.5" stroke-linecap="round"
-            opacity="0.35" />
+    <!-- Snake wrapping around bar — avoids center text area (x=220..460) -->
+    <g class="snake">
+        <!--
+            Snake path: enters from right, weaves above/below bar on the SIDES only.
+            Right side (x=670→480): above → below → above
+            Left side (x=200→-5): below → above → head exits left
+            Center (x=200..480): runs along TOP of bar to avoid text
+        -->
 
-        <!-- Front vine (in front of bar) — full opacity -->
-        <path d="M 700 40
-            C 680 40, 670 35, 650 20
-            C 635 8, 620 0, 600 0
-            C 580 0, 570 5, 555 20
-            C 540 40, 530 65, 510 65
-            C 490 65, 480 60, 465 45
-            C 450 28, 440 10, 420 10
-            C 400 10, 390 15, 375 30
-            C 360 50, 350 70, 330 70
-            C 310 70, 300 60, 285 45
-            C 270 30, 260 10, 240 10" fill="none" stroke="#2ea043" stroke-width="3.5" stroke-linecap="round" />
+        <!-- Snake body — main curve, right side goes below bar -->
+        <path d="M 680 30
+            C 670 15, 660 5, 640 5
+            C 620 5, 615 10, 600 25
+            C 585 45, 575 70, 555 70
+            C 535 70, 525 60, 510 40
+            C 500 25, 495 12, 480 12
+            L 200 12
+            C 185 12, 175 20, 165 35
+            C 155 55, 145 70, 125 70
+            C 105 70, 95 55, 85 35
+            C 75 15, 65 0, 45 0
+            C 30 0, 20 8, 10 15" fill="none" stroke="url(#snake-body)" stroke-width="8" stroke-linecap="round"
+            stroke-linejoin="round" />
 
-        <!-- Tendrils -->
-        <path d="M 695 40 Q 698 48 693 52" fill="none" stroke="#2ea043" stroke-width="2" stroke-linecap="round" />
-        <path d="M 243 10 Q 238 18 242 24" fill="none" stroke="#2ea043" stroke-width="2" stroke-linecap="round" />
-        <path d="M 370 35 Q 365 42 370 48" fill="none" stroke="#3fb950" stroke-width="1.5" stroke-linecap="round" />
+        <!-- Snake belly pattern — lighter stripe -->
+        <path d="M 680 30
+            C 670 15, 660 5, 640 5
+            C 620 5, 615 10, 600 25
+            C 585 45, 575 70, 555 70
+            C 535 70, 525 60, 510 40
+            C 500 25, 495 12, 480 12
+            L 200 12
+            C 185 12, 175 20, 165 35
+            C 155 55, 145 70, 125 70
+            C 105 70, 95 55, 85 35
+            C 75 15, 65 0, 45 0
+            C 30 0, 20 8, 10 15" fill="none" stroke="#7ee787" stroke-width="3" stroke-linecap="round" opacity="0.4" />
 
-        <!-- Leaves along the vine -->
-        <!-- Leaf 1 — near right entry above bar -->
-        <g class="leaf leaf-d1" transform="translate(630, -2)">
-            <path d="M 0 8 Q -6 0, 0 -6 Q 6 0, 0 8 Z" fill="#2ea043" />
-            <path d="M 0 8 L 0 -6" fill="none" stroke="#1a7f37" stroke-width="0.6" />
+        <!-- Diamond pattern on body -->
+        <g opacity="0.3">
+            <polygon points="640,2 644,5 640,8 636,5" fill="#1a7f37" />
+            <polygon points="600,22 604,25 600,28 596,25" fill="#1a7f37" />
+            <polygon points="555,67 559,70 555,73 551,70" fill="#1a7f37" />
+            <polygon points="510,37 514,40 510,43 506,40" fill="#1a7f37" />
+            <polygon points="125,67 129,70 125,73 121,70" fill="#1a7f37" />
+            <polygon points="85,32 89,35 85,38 81,35" fill="#1a7f37" />
+            <polygon points="45,-3 49,0 45,3 41,0" fill="#1a7f37" />
         </g>
 
-        <!-- Leaf 2 — above bar, near top of first wave -->
-        <g class="leaf leaf-d2" transform="translate(598, -4)">
-            <path d="M 0 8 Q -7 0, 0 -7 Q 7 0, 0 8 Z" fill="#3fb950" />
-            <path d="M 0 8 L 0 -7" fill="none" stroke="#1a7f37" stroke-width="0.6" />
-        </g>
+        <!-- Tail tip — right side, tapers off -->
+        <path d="M 680 30 Q 688 28, 692 32 Q 694 34, 690 33" fill="none" stroke="#2ea043" stroke-width="3"
+            stroke-linecap="round" />
 
-        <!-- Leaf 3 — below bar, bottom of second wave -->
-        <g class="leaf leaf-d3" transform="translate(512, 64)">
-            <path d="M 0 0 Q -6 -8, 0 -12 Q 6 -8, 0 0 Z" fill="#2ea043" />
-            <path d="M 0 0 L 0 -12" fill="none" stroke="#1a7f37" stroke-width="0.6" />
-        </g>
-
-        <!-- Leaf 4 — above bar, top of third wave -->
-        <g class="leaf leaf-d4" transform="translate(418, 6)">
-            <path d="M 0 8 Q -6 0, 0 -6 Q 6 0, 0 8 Z" fill="#3fb950" />
-            <path d="M 0 8 L 0 -6" fill="none" stroke="#1a7f37" stroke-width="0.6" />
-        </g>
-
-        <!-- Leaf 5 — below bar, bottom of fourth wave -->
-        <g class="leaf leaf-d5" transform="translate(332, 68)">
-            <path d="M 0 0 Q -7 -8, 0 -13 Q 7 -8, 0 0 Z" fill="#2ea043" />
-            <path d="M 0 0 L 0 -13" fill="none" stroke="#1a7f37" stroke-width="0.6" />
-        </g>
-
-        <!-- Leaf 6 — near left exit -->
-        <g class="leaf leaf-d1" transform="translate(270, 8)">
-            <path d="M 0 8 Q -6 0, 0 -6 Q 6 0, 0 8 Z" fill="#3fb950" />
-            <path d="M 0 8 L 0 -6" fill="none" stroke="#1a7f37" stroke-width="0.6" />
-        </g>
-
-        <!-- Small flower on vine -->
-        <g transform="translate(555, 16)">
-            <circle cx="0" cy="-2" r="3" fill="#ff7b72" opacity="0.8" />
-            <circle cx="-2.5" cy="0.5" r="3" fill="#ff7b72" opacity="0.8" />
-            <circle cx="2.5" cy="0.5" r="3" fill="#ff7b72" opacity="0.8" />
-            <circle cx="0" cy="0" r="2" fill="#f1e05a" />
-        </g>
-
-        <!-- Small flower on vine lower -->
-        <g transform="translate(375, 34)">
-            <circle cx="0" cy="-2" r="2.5" fill="#bb86fc" opacity="0.8" />
-            <circle cx="-2" cy="0.5" r="2.5" fill="#bb86fc" opacity="0.8" />
-            <circle cx="2" cy="0.5" r="2.5" fill="#bb86fc" opacity="0.8" />
-            <circle cx="0" cy="0" r="1.5" fill="#f1e05a" />
+        <!-- Snake head — left side -->
+        <g transform="translate(10, 15)">
+            <!-- Head shape -->
+            <ellipse cx="-8" cy="0" rx="10" ry="7" fill="#2ea043" />
+            <!-- Lighter snout -->
+            <ellipse cx="-12" cy="1" rx="5" ry="4" fill="#3fb950" />
+            <!-- Eyes -->
+            <g class="sn-eyes">
+                <circle cx="-6" cy="-3" r="3" fill="#f1e05a" />
+                <circle cx="-6" cy="-3" r="1.5" fill="#111" />
+                <circle cx="-7" cy="-3.5" r="0.6" fill="white" />
+            </g>
+            <!-- Nostril -->
+            <circle cx="-15" cy="-1" r="0.8" fill="#1a7f37" />
+            <!-- Tongue -->
+            <g class="tongue">
+                <path d="M -18 1 L -24 -1 M -18 1 L -24 3" fill="none" stroke="#ff4444" stroke-width="1.2"
+                    stroke-linecap="round" />
+            </g>
+            <!-- Smile -->
+            <path d="M -14 3 Q -12 5, -8 4" fill="none" stroke="#1a7f37" stroke-width="0.8" />
         </g>
     </g>
 </svg>
