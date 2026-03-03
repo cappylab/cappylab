@@ -83,59 +83,66 @@
 
     <!-- Vine entering from left -->
     <g>
-        <!-- Main vine stem wrapped along the top edge of the bar -->
-        <path d="M 0 10 Q 30 20 60 18 Q 100 15 130 20 Q 180 25 220 18" fill="none" stroke="#2ea043" stroke-width="3"
+        <!-- Main vine stem — curved along the top edge of the bar -->
+        <path d="M 0 15 Q 25 18 55 17 Q 90 16 120 19 Q 160 22 200 18" fill="none" stroke="#2ea043" stroke-width="3"
             stroke-linecap="round" />
-        <path d="M 0 8 Q 15 15 25 25" fill="none" stroke="#2ea043" stroke-width="2" stroke-linecap="round" />
+        <!-- Secondary tendril curling down -->
+        <path d="M 0 13 Q 12 18 20 22" fill="none" stroke="#2ea043" stroke-width="2" stroke-linecap="round" />
 
-        <!-- Leaves -->
-        <g class="vine-leaf" style="transform-origin: 20px 17px;">
-            <path d="M 21 17 Q 25 5 35 10 Q 30 20 21 17 Z" fill="#3fb950" />
-            <path d="M 21 17 L 30 11" stroke="#2ea043" stroke-width="1.5" />
+        <!-- Leaves — each leaf starts exactly on the vine path -->
+        <g class="vine-leaf" style="transform-origin: 35px 17px;">
+            <path d="M 35 17 Q 40 6 50 11 Q 45 20 35 17 Z" fill="#3fb950" />
+            <path d="M 35 17 L 44 12" stroke="#2ea043" stroke-width="1" />
         </g>
-        <g class="vine-leaf" style="transform-origin: 70px 17px;">
-            <path d="M 71 17 Q 80 5 90 12 Q 85 22 71 17 Z" fill="#3fb950" />
-            <path d="M 71 17 L 83 13" stroke="#2ea043" stroke-width="1.5" />
+        <g class="vine-leaf" style="transform-origin: 80px 16px;">
+            <path d="M 80 16 Q 88 5 96 12 Q 90 22 80 16 Z" fill="#7ee787" />
+            <path d="M 80 16 L 90 11" stroke="#2ea043" stroke-width="1" />
         </g>
-        <g class="vine-leaf" style="transform-origin: 120px 19px;">
-            <path d="M 121 19 Q 130 8 140 15 Q 135 25 121 19 Z" fill="#3fb950" />
-            <path d="M 121 19 L 133 16" stroke="#2ea043" stroke-width="1.5" />
+        <g class="vine-leaf" style="transform-origin: 130px 19px;">
+            <path d="M 130 19 Q 138 8 146 15 Q 140 25 130 19 Z" fill="#3fb950" />
+            <path d="M 130 19 L 140 14" stroke="#2ea043" stroke-width="1" />
         </g>
-        <g class="vine-leaf" style="transform-origin: 170px 22px;">
-            <path d="M 171 22 Q 180 10 190 17 Q 185 27 171 22 Z" fill="#3fb950" />
-            <path d="M 171 22 L 183 18" stroke="#2ea043" stroke-width="1.5" />
+        <g class="vine-leaf" style="transform-origin: 175px 20px;">
+            <path d="M 175 20 Q 183 9 191 16 Q 185 26 175 20 Z" fill="#7ee787" />
+            <path d="M 175 20 L 185 15" stroke="#2ea043" stroke-width="1" />
         </g>
     </g>
+
     <!-- Cat sitting on top of right edge of header -->
     <g class="cat-hang">
-        <!-- Tail behind -->
+        <!-- Tail — starts from the back of the body, close to it -->
         <g class="tail">
-            <path d="M 672 20 Q 685 10, 688 18 Q 690 22, 685 19" fill="none" stroke="#f4a460" stroke-width="4"
+            <path d="M 664 14 Q 674 5, 680 12 Q 683 18, 678 15" fill="none" stroke="#f4a460" stroke-width="4"
                 stroke-linecap="round" />
         </g>
         <!-- Body sitting on bar -->
-        <ellipse cx="654" cy="16" rx="12" ry="10" fill="#f4a460" />
-        <ellipse cx="654" cy="18" rx="8" ry="7" fill="#ffdab9" />
+        <ellipse cx="654" cy="14" rx="14" ry="12" fill="#f4a460" />
+        <ellipse cx="654" cy="16" rx="9" ry="8" fill="#ffdab9" />
         <!-- Head on top -->
-        <circle cx="654" cy="4" r="10" fill="#f4a460" />
+        <circle cx="654" cy="0" r="12" fill="#f4a460" />
         <!-- Ears pointing UP -->
-        <polygon points="646,-4 648,3 651,-3" fill="#f4a460" />
-        <polygon points="657,-3 660,3 662,-4" fill="#f4a460" />
-        <polygon points="647,-2 649,1 650,-2" fill="#ff69b4" opacity="0.4" />
-        <polygon points="658,-2 660,1 661,-2" fill="#ff69b4" opacity="0.4" />
+        <polygon points="644,-10 647,0 650,-8" fill="#f4a460" />
+        <polygon points="658,-8 661,0 664,-10" fill="#f4a460" />
+        <polygon points="645,-7 648,-1 649,-7" fill="#ff69b4" opacity="0.4" />
+        <polygon points="659,-7 661,-1 663,-7" fill="#ff69b4" opacity="0.4" />
         <!-- Eyes looking forward -->
         <g class="eyes">
-            <circle cx="650" cy="3" r="2.5" fill="#66ff66" />
-            <circle cx="658" cy="3" r="2.5" fill="#66ff66" />
-            <circle cx="650.5" cy="3" r="1.3" fill="#111" />
-            <circle cx="658.5" cy="3" r="1.3" fill="#111" />
-            <circle cx="649.8" cy="2.2" r="0.5" fill="white" />
-            <circle cx="657.8" cy="2.2" r="0.5" fill="white" />
+            <circle cx="649" cy="-1" r="3" fill="#66ff66" />
+            <circle cx="659" cy="-1" r="3" fill="#66ff66" />
+            <circle cx="649.5" cy="-1" r="1.5" fill="#111" />
+            <circle cx="659.5" cy="-1" r="1.5" fill="#111" />
+            <circle cx="648.8" cy="-2" r="0.6" fill="white" />
+            <circle cx="658.8" cy="-2" r="0.6" fill="white" />
         </g>
         <!-- Nose -->
-        <ellipse cx="654" cy="6.5" rx="1.5" ry="1" fill="#ff69b4" />
-        <!-- Front paws on bar -->
-        <ellipse cx="648" cy="21" rx="5" ry="3" fill="#f4a460" />
-        <ellipse cx="660" cy="21" rx="5" ry="3" fill="#f4a460" />
+        <ellipse cx="654" cy="3" rx="1.8" ry="1.2" fill="#ff69b4" />
+        <!-- Front paws on bar — bigger -->
+        <ellipse cx="646" cy="22" rx="7" ry="4" fill="#f4a460" />
+        <ellipse cx="662" cy="22" rx="7" ry="4" fill="#f4a460" />
+        <!-- Paw pads -->
+        <circle cx="644" cy="23" r="1.2" fill="#ff69b4" opacity="0.3" />
+        <circle cx="648" cy="23.5" r="1" fill="#ff69b4" opacity="0.3" />
+        <circle cx="660" cy="23" r="1.2" fill="#ff69b4" opacity="0.3" />
+        <circle cx="664" cy="23.5" r="1" fill="#ff69b4" opacity="0.3" />
     </g>
 </svg>
