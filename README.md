@@ -20,8 +20,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jhm1909&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/jhm1909?style=for-the-badge&color=bb86fc&labelColor=0d1117&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/jhm1909?style=for-the-badge&color=ff6b6b&labelColor=0d1117&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/jhm1909?style=for-the-badge&color=bb86fc&labelColor=0d1117&label=Followers&cacheSeconds=1800" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/jhm1909?style=for-the-badge&color=ff6b6b&labelColor=0d1117&label=Stars&cacheSeconds=1800" alt="Stars" />
 </p>
 
 <br/>
@@ -94,7 +94,7 @@ const capy = {
 
 <p align="center">
   <a href="https://github.com/jhm1909">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhm1909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=bb86fc&text_color=c9d1d9&ring_color=00d4ff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhm1909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=bb86fc&text_color=c9d1d9&ring_color=00d4ff&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
   </a>
 </p>
 
@@ -104,7 +104,7 @@ const capy = {
 
 <p align="center">
   <a href="https://github.com/jhm1909">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jhm1909&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=bb86fc&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jhm1909&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=bb86fc&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&cache_seconds=1800" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -124,7 +124,7 @@ const capy = {
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=jhm1909&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=jhm1909&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&cache_seconds=1800" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -144,7 +144,7 @@ const capy = {
 
 <p align="center">
   <a href="https://github.com/jhm1909">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhm1909&bg_color=0d1117&color=00d4ff&line=bb86fc&point=ff6b6b&area=true&area_color=00d4ff&hide_border=true&custom_title=Capy's%20Contribution%20Graph" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhm1909&bg_color=0d1117&color=00d4ff&line=bb86fc&point=ff6b6b&area=true&area_color=00d4ff&hide_border=true&custom_title=Capy's%20Contribution%20Graph&cache_seconds=1800" alt="Activity Graph" />
   </a>
 </p>
 
@@ -202,18 +202,18 @@ const capy = {
 
 <p align="center">
   <a href="https://github.com/jhm1909">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhm1909&theme=tokyonight" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhm1909&theme=tokyonight&cache_seconds=1800" alt="Profile Details" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhm1909&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhm1909&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhm1909&theme=tokyonight&cache_seconds=1800" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhm1909&theme=tokyonight&cache_seconds=1800" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhm1909&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhm1909&theme=tokyonight&utcOffset=9" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhm1909&theme=tokyonight&cache_seconds=1800" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhm1909&theme=tokyonight&utcOffset=9&cache_seconds=1800" alt="Productive Time" />
 </p>
 
 
