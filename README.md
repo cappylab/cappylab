@@ -168,8 +168,8 @@ mantra: "Clean code, strong coffee, zero downtime"
 <h2 align="center">🎵 Vibing To</h2>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/jhm1909">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jhm1909&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d4ff&bar_color_cover=true" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lkmwj7oxs7si5ntnuxhaxklysi&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lkmwj7oxs7si5ntnuxhaxklysi&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d4ff&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </p>
 
