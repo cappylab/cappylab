@@ -59,9 +59,7 @@ const capy = {
 <br clear="both"/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -83,9 +81,7 @@ const capy = {
 <br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -277,11 +273,11 @@ const capy = {
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40" />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40" />
-  <b>Thanks for visiting! Have a purrfect day!</b>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40" />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting! Have a purrfect day! 🐱</b>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bb86fc,50:6366f1,100:00d4ff&height=150&section=footer" />
