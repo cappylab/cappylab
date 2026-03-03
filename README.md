@@ -59,7 +59,9 @@ const capy = {
 <br clear="both"/>
 
 <p align="center">
+  <img src="./assets/plants/flower-patch.svg" width="100" alt="Flowers" />
   <img src="./assets/cats/cat-waving.svg" width="180" alt="Cat Waving" />
+  <img src="./assets/plants/flower-patch.svg" width="100" alt="Flowers" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -82,6 +84,7 @@ const capy = {
 
 <p align="center">
   <img src="./assets/cats/cat-sleeping.svg" width="180" alt="Cat Sleeping" />
+  <img src="./assets/plants/bush.svg" width="120" alt="Bush" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -111,6 +114,7 @@ const capy = {
 <br/>
 
 <p align="center">
+  <img src="./assets/plants/potted-plant.svg" width="120" alt="Potted Plant" />
   <img src="./assets/cats/cat-playing-yarn.svg" width="180" alt="Cat Playing Yarn" />
 </p>
 
@@ -132,6 +136,7 @@ const capy = {
 
 <p align="center">
   <img src="./assets/cats/cat-chasing-butterfly.svg" width="220" alt="Cat Chasing Butterfly" />
+  <img src="./assets/plants/flower-patch.svg" width="120" alt="Flower Patch" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -151,6 +156,7 @@ const capy = {
 <br/>
 
 <p align="center">
+  <img src="./assets/plants/vine.svg" width="60" alt="Vine" />
   <img src="./assets/cats/cat-sitting-tree.svg" width="180" alt="Cat Sitting in Tree" />
 </p>
 
@@ -174,6 +180,7 @@ const capy = {
 
 <p align="center">
   <img src="./assets/cats/cat-tower.svg" width="160" alt="Cat Tower" />
+  <img src="./assets/plants/bush.svg" width="100" alt="Bush" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -193,9 +200,11 @@ const capy = {
 <br/>
 
 <p align="center">
+  <img src="./assets/plants/potted-plant.svg" width="100" alt="Potted Plant" />
   <img src="./assets/cats/cat-waving.svg" width="120" alt="Cat Waving" />
   <img src="./assets/cats/cat-sleeping.svg" width="150" alt="Cat Sleeping" />
   <img src="./assets/cats/cat-waving.svg" width="120" alt="Cat Waving" />
+  <img src="./assets/plants/flower-patch.svg" width="100" alt="Flowers" />
 </p>
 
 
@@ -265,7 +274,9 @@ const capy = {
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
+  <img src="./assets/plants/bush.svg" width="120" alt="Bush" />
   <img src="./assets/cats/cat-eating.svg" width="180" alt="Cat Eating" />
+  <img src="./assets/plants/potted-plant.svg" width="120" alt="Potted Plant" />
 </p>
 
 <p align="center">

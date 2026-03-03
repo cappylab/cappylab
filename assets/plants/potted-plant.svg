@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+    <style>
+        .plant {
+            animation: sway 4s ease-in-out infinite alternate;
+            transform-origin: bottom center;
+            transform-box: fill-box;
+        }
+
+        @keyframes sway {
+            0% {
+                transform: rotate(-2deg);
+            }
+
+            100% {
+                transform: rotate(2deg);
+            }
+        }
+    </style>
+
+    <g class="plant">
+        <!-- stems -->
+        <path d="M 50 70 L 50 30" fill="none" stroke="#2ea043" stroke-width="5" stroke-linecap="round" />
+        <path d="M 50 60 Q 30 50 25 35" fill="none" stroke="#2ea043" stroke-width="4" stroke-linecap="round" />
+        <path d="M 50 55 Q 70 45 75 30" fill="none" stroke="#2ea043" stroke-width="4" stroke-linecap="round" />
+
+        <!-- main top leaf -->
+        <path d="M 50 30 Q 35 15 50 5 Q 65 15 50 30 Z" fill="#3fb950" />
+        <path d="M 50 30 L 50 5" stroke="#2ea043" stroke-width="2" fill="none" />
+
+        <!-- left leaf -->
+        <path d="M 25 35 Q 10 30 15 15 Q 35 20 25 35 Z" fill="#3fb950" />
+        <path d="M 25 35 L 15 15" stroke="#2ea043" stroke-width="2" fill="none" />
+
+        <!-- right leaf -->
+        <path d="M 75 30 Q 90 25 85 10 Q 65 15 75 30 Z" fill="#3fb950" />
+        <path d="M 75 30 L 85 10" stroke="#2ea043" stroke-width="2" fill="none" />
+    </g>
+
+    <!-- pot -->
+    <path d="M 35 100 L 40 70 L 60 70 L 65 100 Z" fill="#d29922" />
+    <path d="M 30 70 L 70 70 L 70 60 L 30 60 Z" fill="#9e6a03" />
+</svg>

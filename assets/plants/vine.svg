@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 150" width="50" height="150">
+    <style>
+        .leaf {
+            animation: flutter 3s ease-in-out infinite alternate;
+            transform-box: fill-box;
+            transform-origin: top left;
+        }
+
+        .leaf-r {
+            animation: flutter 3.2s ease-in-out infinite alternate-reverse;
+            transform-box: fill-box;
+            transform-origin: top right;
+        }
+
+        @keyframes flutter {
+            0% {
+                transform: rotate(-5deg);
+            }
+
+            100% {
+                transform: rotate(5deg);
+            }
+        }
+    </style>
+    <!-- vine body -->
+    <path d="M 25 0 Q 35 30 20 60 T 30 110 T 25 150" fill="none" stroke="#2ea043" stroke-width="4"
+        stroke-linecap="round" />
+
+    <!-- leaves left -->
+    <g class="leaf" style="transform-origin: 25px 20px;">
+        <path d="M 27 20 Q 10 15 15 30 Q 25 35 27 20" fill="#3fb950" />
+        <path d="M 27 20 L 15 30" stroke="#2ea043" stroke-width="1.5" />
+    </g>
+    <g class="leaf" style="transform-origin: 22px 70px;">
+        <path d="M 23 70 Q 5 65 10 80 Q 20 85 23 70" fill="#3fb950" />
+        <path d="M 23 70 L 10 80" stroke="#2ea043" stroke-width="1.5" />
+    </g>
+    <g class="leaf" style="transform-origin: 28px 120px;">
+        <path d="M 28 120 Q 10 115 15 130 Q 25 135 28 120" fill="#3fb950" />
+        <path d="M 28 120 L 15 130" stroke="#2ea043" stroke-width="1.5" />
+    </g>
+
+    <!-- leaves right -->
+    <g class="leaf-r" style="transform-origin: 23px 40px;">
+        <path d="M 22 40 Q 40 35 35 50 Q 25 55 22 40" fill="#3fb950" />
+        <path d="M 22 40 L 35 50" stroke="#2ea043" stroke-width="1.5" />
+    </g>
+    <g class="leaf-r" style="transform-origin: 28px 90px;">
+        <path d="M 29 90 Q 45 85 40 100 Q 30 105 29 90" fill="#3fb950" />
+        <path d="M 29 90 L 40 100" stroke="#2ea043" stroke-width="1.5" />
+    </g>
+</svg>
