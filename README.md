@@ -103,7 +103,7 @@ mantra: "Clean code, strong coffee, zero downtime"
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jhm1909&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=jhm1909&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
   </a>
 </p>
 
