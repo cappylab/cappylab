@@ -34,23 +34,23 @@
 
         @keyframes wind-sway {
             0% {
-                transform: rotate(-6deg)
+                transform: rotate(0deg)
             }
 
             25% {
-                transform: rotate(4deg)
+                transform: rotate(2deg)
             }
 
             50% {
-                transform: rotate(-3deg)
+                transform: rotate(-2deg)
             }
 
             75% {
-                transform: rotate(5deg)
+                transform: rotate(1deg)
             }
 
             100% {
-                transform: rotate(-6deg)
+                transform: rotate(0deg)
             }
         }
 
@@ -85,9 +85,8 @@
         }
 
         .flower-sway {
-            animation: wind-sway 4s ease-in-out infinite;
-            transform-box: fill-box;
-            transform-origin: bottom center;
+            animation: wind-sway 5s ease-in-out infinite;
+            transform-origin: 640px 62px;
         }
 
         .leaf-sway {
@@ -136,7 +135,7 @@
     </g>
 
     <!-- Flower on right side — CORAL/PINK color to contrast with cyan-purple gradient -->
-    <g class="flower-sway" style="transform-origin: 640px 60px;">
+    <g class="flower-sway">
         <!-- Stem -->
         <path d="M 640 60 Q 642 50 640 35" fill="none" stroke="#2ea043" stroke-width="3" stroke-linecap="round" />
         <!-- Petals — warm coral/salmon, clearly distinct from the gradient -->
