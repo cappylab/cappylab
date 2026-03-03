@@ -82,7 +82,7 @@
     </g>
 
     <!-- Flower Patch on the left -->
-    <g class="flower-sway" transform="translate(45, 10)">
+    <g class="flower-sway" transform="translate(60, 10)">
         <path d="M 0 30 Q 15 35 30 30 Q 15 45 0 30" fill="#2ea043" />
         <path d="M 20 28 Q 30 35 40 28 Q 30 40 20 28" fill="#3fb950" />
         <path d="M -10 25 Q 0 35 10 25 Q 0 40 -10 25" fill="#3fb950" />
