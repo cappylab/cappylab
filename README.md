@@ -2,7 +2,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6366f1,100:bb86fc&height=300&section=header&text=%F0%9F%90%B1%20Welcome%20to%20Capy's%20Universe%20%F0%9F%90%B1&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=55&descSize=18&descColor=c9d1d9" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6366f1,100:bb86fc&height=300&section=header&text=Welcome%20to%20Capy's%20Universe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=55&descSize=18&descColor=c9d1d9" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░ TYPING SVG ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
