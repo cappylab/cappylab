@@ -81,40 +81,4 @@
         <ellipse cx="-18" cy="21" rx="4" ry="2.5" fill="#f5deb3" />
     </g>
 
-    <!-- Flower Patch on the left -->
-    <g class="flower-sway" transform="translate(60, 10)">
-        <path d="M 0 30 Q 15 35 30 30 Q 15 45 0 30" fill="#2ea043" />
-        <path d="M 20 28 Q 30 35 40 28 Q 30 40 20 28" fill="#3fb950" />
-        <path d="M -10 25 Q 0 35 10 25 Q 0 40 -10 25" fill="#3fb950" />
-
-        <!-- Flower 1 -->
-        <g transform="translate(0, 15)">
-            <path d="M 0 0 Q 3 10 5 15" fill="none" stroke="#2ea043" stroke-width="2" />
-            <circle cx="0" cy="-3" r="4" fill="#ff7b72" />
-            <circle cx="-3" cy="0" r="4" fill="#ff7b72" />
-            <circle cx="3" cy="0" r="4" fill="#ff7b72" />
-            <circle cx="0" cy="3" r="4" fill="#ff7b72" />
-            <circle cx="0" cy="0" r="3" fill="#f1e05a" />
-        </g>
-
-        <!-- Flower 2 -->
-        <g transform="translate(18, 5) scale(0.8)">
-            <path d="M 0 0 Q -2 15 -5 23" fill="none" stroke="#2ea043" stroke-width="2.5" />
-            <circle cx="0" cy="-3" r="4" fill="#bb86fc" />
-            <circle cx="-3" cy="0" r="4" fill="#bb86fc" />
-            <circle cx="3" cy="0" r="4" fill="#bb86fc" />
-            <circle cx="0" cy="3" r="4" fill="#bb86fc" />
-            <circle cx="0" cy="0" r="3" fill="#f1e05a" />
-        </g>
-
-        <!-- Flower 3 -->
-        <g transform="translate(32, 12) scale(0.9)">
-            <path d="M 0 0 Q -3 10 -5 18" fill="none" stroke="#2ea043" stroke-width="2" />
-            <circle cx="0" cy="-3" r="4" fill="#ffa657" />
-            <circle cx="-3" cy="0" r="4" fill="#ffa657" />
-            <circle cx="3" cy="0" r="4" fill="#ffa657" />
-            <circle cx="0" cy="3" r="4" fill="#ffa657" />
-            <circle cx="0" cy="0" r="3" fill="#f1e05a" />
-        </g>
-    </g>
 </svg>
