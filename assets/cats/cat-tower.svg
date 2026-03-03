@@ -95,7 +95,7 @@
 
         .tail-1 {
             animation: tail1 3s ease-in-out infinite;
-            transform-origin: 70px 62px;
+            transform-origin: 115px 15px;
         }
 
 
@@ -134,7 +134,7 @@
     <!-- Cat 1 (orange) - on top platform, lounging -->
     <g>
         <g class="tail-1">
-            <path d="M 70 62 Q 50 50, 45 55 Q 42 60, 48 58" fill="none" stroke="#f4a460" stroke-width="5"
+            <path d="M 115 15 Q 135 5, 140 10 Q 145 15, 138 15" fill="none" stroke="#f4a460" stroke-width="5"
                 stroke-linecap="round" />
         </g>
         <ellipse cx="90" cy="15" rx="28" ry="10" class="cat1" />
