@@ -89,9 +89,7 @@
     </g>
     <!-- Cat 2 - small gray -->
     <g transform="translate(390, 0)">
-        <g class="tail">
-            <path d="M -5 12 Q -15 5, -12 15" fill="none" stroke="#696969" stroke-width="3" stroke-linecap="round" />
-        </g>
+
         <ellipse cx="0" cy="14" rx="8" ry="7" fill="#696969" />
         <circle cx="0" cy="6" r="6" fill="#696969" />
         <polygon points="-5,2 -4,-3 -2,1" fill="#696969" />
@@ -110,14 +108,7 @@
     <!-- Small heart between them -->
     <text x="347" y="8" font-size="8">❤️</text>
 
-    <!-- Vine hanging from top left -->
-    <g class="vine-sway" transform="translate(45, -5)">
-        <path d="M 0 0 Q 5 15 -5 30 Q -10 40 0 50" fill="none" stroke="#2ea043" stroke-width="2" />
-        <path d="M -2 10 Q -8 5 -12 10 Q -8 15 -2 10 Z" fill="#3fb950" />
-        <path d="M -3 30 Q -10 25 -15 32 Q -10 38 -3 30 Z" fill="#2ea043" />
-        <path d="M 2 20 Q 10 18 12 25 Q 8 28 2 20 Z" fill="#7ee787" />
-        <path d="M -2 45 Q -8 40 -12 45 Q -8 50 -2 45 Z" fill="#3fb950" />
-    </g>
+
 
     <!-- Bush growing on the right side -->
     <g class="bush-sway" transform="translate(630, 25)">
