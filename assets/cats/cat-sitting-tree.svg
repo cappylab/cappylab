@@ -70,10 +70,7 @@
             }
         }
 
-        .tail {
-            animation: tail-swing 3s ease-in-out infinite;
-            transform-origin: 100px 90px;
-        }
+
 
         .tree-top {
             animation: leaf-sway 5s ease-in-out infinite;
@@ -103,12 +100,10 @@
     </g>
     <!-- Cat sitting on branch -->
     <g transform="translate(72, 58)">
-        <!-- Tail hanging -->
-        <g class="tail">
-            <path d="M 28 32 Q 38 50, 32 62 Q 28 68, 24 65" fill="none" stroke="#f5f5f5" stroke-width="6"
-                stroke-linecap="round" />
-            <path d="M 24 65 Q 22 63, 24 62" fill="none" stroke="#f4a460" stroke-width="6" stroke-linecap="round" />
-        </g>
+        <!-- Tail hanging — static -->
+        <path d="M 24 30 Q 34 48, 28 58 Q 25 64, 22 60" fill="none" stroke="#f5f5f5" stroke-width="6"
+            stroke-linecap="round" />
+        <path d="M 22 60 Q 20 58, 22 57" fill="none" stroke="#f4a460" stroke-width="6" stroke-linecap="round" />
         <!-- Body -->
         <ellipse cx="18" cy="24" rx="16" ry="20" class="cat-body" />
         <!-- Orange spots -->
