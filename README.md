@@ -2,7 +2,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6366f1,100:bb86fc&height=300&section=header&text=%F0%9F%90%B1%20Welcome%20to%20Capy's%20Universe%20%F0%9F%90%BE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Powered%20by%20cats%20%26%20caffeine&descAlignY=55&descSize=18&descColor=c9d1d9" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6366f1,100:bb86fc&height=300&section=header&text=%F0%9F%90%B1%20Welcome%20to%20Capy's%20Universe%20%F0%9F%90%B1&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=55&descSize=18&descColor=c9d1d9" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░ TYPING SVG ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/jhm1909">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Full-Stack+Developer+%7C+Go+Enthusiast+%F0%9F%90%B1;Scalable+systems+%26+beautiful+interfaces;Powered+by+cats+%26+caffeine+%E2%98%95%F0%9F%90%BE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Full-Stack+Developer+%7C+Go+Enthusiast;Scalable+systems+%26+beautiful+interfaces;Turning+coffee+into+production-grade+code" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=%F0%9F%90%B1%20ABOUT%20ME&fontSize=16&fontColor=ffffff&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=ABOUT%20ME&fontSize=16&fontColor=ffffff&fontAlignY=50" />
 </p>
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lkmwj7oxs7si5ntnuxhaxklysi&redirect=true">
@@ -41,13 +41,12 @@
 ```js
 const capy = {
   role: "Full-Stack Developer",
-  spirit: "🐱",
   code: ["Go", "TypeScript", "JavaScript", "Python"],
   focus: "Scalable Backend Systems & Modern Frontend",
   currentlyBuilding: "Production-grade systems with Go",
   learning: "System Design & Cloud Architecture",
   askMeAbout: ["Go", "APIs", "Microservices", "React"],
-  funFact: "My cat reviews my PRs 🐾"
+  funFact: "I debug faster with ☕ in hand"
 };
 ```
 
@@ -59,7 +58,11 @@ const capy = {
 
 <br clear="both"/>
 
-<p align="center">𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -68,7 +71,7 @@ const capy = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=%F0%9F%90%BE%20TECH%20ARSENAL&fontSize=16&fontColor=ffffff&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=TECH%20ARSENAL&fontSize=16&fontColor=ffffff&fontAlignY=50" />
 </p>
 
 <p align="center">
@@ -79,14 +82,18 @@ const capy = {
 
 <br/>
 
-<p align="center">𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=%F0%9F%90%B1%20GITHUB%20ANALYTICS&fontSize=16&fontColor=ffffff&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=GITHUB%20ANALYTICS&fontSize=16&fontColor=ffffff&fontAlignY=50" />
 </p>
 
 <p align="center">
@@ -107,14 +114,18 @@ const capy = {
 
 <br/>
 
-<p align="center">𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=%F0%9F%8F%86%20GITHUB%20TROPHIES&fontSize=16&fontColor=ffffff&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=GITHUB%20TROPHIES&fontSize=16&fontColor=ffffff&fontAlignY=50" />
 </p>
 
 <p align="center">
@@ -125,14 +136,18 @@ const capy = {
 
 <br/>
 
-<p align="center">𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░ ACTIVITY GRAPH ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=%F0%9F%90%BE%20CONTRIBUTION%20ACTIVITY&fontSize=16&fontColor=ffffff&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=CONTRIBUTION%20ACTIVITY&fontSize=16&fontColor=ffffff&fontAlignY=50" />
 </p>
 
 <p align="center">
@@ -143,14 +158,18 @@ const capy = {
 
 <br/>
 
-<p align="center">𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░ SNAKE GRAPH ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=%F0%9F%90%B1%20CONTRIBUTION%20SNAKE&fontSize=16&fontColor=ffffff&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=CONTRIBUTION%20SNAKE&fontSize=16&fontColor=ffffff&fontAlignY=50" />
 </p>
 
 <p align="center">
@@ -163,14 +182,18 @@ const capy = {
 
 <br/>
 
-<p align="center">𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░ 3D CONTRIBUTION ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=%F0%9F%90%BE%203D%20CONTRIBUTION%20GRAPH&fontSize=16&fontColor=ffffff&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=3D%20CONTRIBUTION%20GRAPH&fontSize=16&fontColor=ffffff&fontAlignY=50" />
 </p>
 
 <p align="center">
@@ -181,7 +204,11 @@ const capy = {
 
 <br/>
 
-<p align="center">𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+</p>
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -189,7 +216,7 @@ const capy = {
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=%F0%9F%90%B1%20DETAILED%20METRICS&fontSize=16&fontColor=ffffff&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=DETAILED%20METRICS&fontSize=16&fontColor=ffffff&fontAlignY=50" />
 </p>
 
 <p align="center">
@@ -210,14 +237,18 @@ const capy = {
 
 <br/>
 
-<p align="center">𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠 ⋆ 𓃠</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" />
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░ CONNECT ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=%F0%9F%90%BE%20CONNECT%20WITH%20ME&fontSize=16&fontColor=ffffff&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d4ff,100:bb86fc&height=40&section=header&text=CONNECT%20WITH%20ME&fontSize=16&fontColor=ffffff&fontAlignY=50" />
 </p>
 
 <p align="center">
@@ -239,14 +270,18 @@ const capy = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" />
-</p>
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40" />
+  <b>Thanks for visiting! Have a purrfect day!</b>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bb86fc,50:6366f1,100:00d4ff&height=150&section=footer" />
