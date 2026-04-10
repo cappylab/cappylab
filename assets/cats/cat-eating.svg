@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" width="200" height="100">
     <style>
         .cat {
-            fill: #d0d7de;
-            stroke: #57606a;
-            stroke-width: 0.6;
+            fill: #f4a460;
+            stroke: #8b4513;
+            stroke-width: 1;
         }
 
         .spot1 {
@@ -111,7 +111,7 @@
     <g class="cat-eating">
         <!-- Tail -->
         <g class="tail">
-            <path d="M 50 55 Q 25 35, 20 50 Q 18 58, 24 53" fill="none" stroke="#d0d7de" stroke-width="6"
+            <path d="M 50 55 Q 25 35, 20 50 Q 18 58, 24 53" fill="none" stroke="#f4a460" stroke-width="6"
                 stroke-linecap="round" />
             <path d="M 24 53 Q 22 50, 25 50" fill="none" stroke="#2c2c2c" stroke-width="6" stroke-linecap="round" />
         </g>
