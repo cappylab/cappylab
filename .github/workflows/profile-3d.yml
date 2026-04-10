@@ -24,10 +24,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Keep only used SVG
+        run: |
+          find profile-3d-contrib -type f -name '*.svg' ! -name 'profile-night-green.svg' -delete
+
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile-3d-contrib/
+          git add -A profile-3d-contrib/
           git diff --cached --quiet || git commit -m "chore: update 3D contribution graph"
           git push
