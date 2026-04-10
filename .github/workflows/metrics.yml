@@ -5,8 +5,30 @@ on:
     - cron: "0 2 * * *" # Runs daily at 02:00 UTC
   workflow_dispatch: # Allow manual trigger
 
+concurrency:
+  group: metrics
+  cancel-in-progress: false
+
 jobs:
+  check-secret:
+    runs-on: ubuntu-latest
+    outputs:
+      has_token: ${{ steps.check.outputs.has_token }}
+    steps:
+      - id: check
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          if [ -n "$METRICS_TOKEN" ]; then
+            echo "has_token=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_token=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::METRICS_TOKEN secret is not set — skipping metrics generation. Create a PAT with scopes: repo, read:org, read:user, read:packages and add it as METRICS_TOKEN in repo Settings → Secrets."
+          fi
+
   github-metrics:
+    needs: check-secret
+    if: needs.check-secret.outputs.has_token == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
@@ -16,7 +38,6 @@ jobs:
     steps:
       - name: Generate Metrics
         uses: lowlighter/metrics@v3.34
-        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: jhm1909
