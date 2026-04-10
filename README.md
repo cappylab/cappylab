@@ -49,36 +49,27 @@
   <img src="./assets/cats/header-about.svg" width="700" alt="About Me" />
 </p>
 
-<table align="center">
-  <tr>
-    <td width="55%" valign="top">
+<div align="center">
+
 <pre lang="js"><code>const capy = {
   role: "Full-Stack Developer",
-  location: "Seoul, South Korea 🇰🇷",
+  location: "Seoul, South Korea",
   code: ["Go", "TypeScript", "JavaScript", "Python"],
-  focus: "Scalable Backend &amp; Modern Frontend",
+  focus: "Scalable Backend & Modern Frontend",
   currentlyBuilding: "Production-grade Go systems",
-  learning: "System Design &amp; Cloud Architecture",
+  learning: "System Design & Cloud Architecture",
   askMeAbout: ["Go", "APIs", "Microservices", "React"],
   funFact: "I debug faster with ☕ in hand"
 };</code></pre>
-      <p align="center">
-        <a href="mailto:jeonghamin1909@gmail.com">
-          <img src="https://img.shields.io/badge/Let's_Talk-jeonghamin1909%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
-        </a>
-      </p>
-    </td>
-    <td width="45%" align="center" valign="top">
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lkmwj7oxs7si5ntnuxhaxklysi&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lkmwj7oxs7si5ntnuxhaxklysi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true&bar_color=53b14f" alt="Spotify Now Playing" width="320" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+<a href="mailto:jeonghamin1909@gmail.com">
+  <img src="https://img.shields.io/badge/Let's_Talk-jeonghamin1909%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+</a>
+
+</div>
 
 <p align="center">
   <img src="./assets/cats/cat-waving.svg" width="180" alt="Cat Waving" />
-  <img src="./assets/cats/cat-eating.svg" width="180" alt="Cat Eating" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -134,12 +125,20 @@
   <img src="./assets/cats/header-stats.svg" width="700" alt="GitHub Analytics" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/jhm1909">
-    <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhm1909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=bb86fc&text_color=c9d1d9&ring_color=00d4ff&count_private=true&include_all_commits=true&card_width=450" alt="GitHub Stats" />
-    <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhm1909&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8&card_width=350" alt="Top Languages" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/jhm1909">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhm1909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=bb86fc&text_color=c9d1d9&ring_color=00d4ff&count_private=true&include_all_commits=true&card_width=420" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/jhm1909">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhm1909&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8&card_width=320" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -154,8 +153,9 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/cats/cat-playing-yarn.svg" width="180" alt="Cat Playing Yarn" />
-  <img src="./assets/plants/flower-patch.svg" width="180" alt="Flower Patch" />
+  <img src="./assets/cats/cat-playing-yarn.svg" height="140" alt="Cat Playing Yarn" />
+  <img src="./assets/plants/flower-patch.svg" height="140" alt="Flower Patch" />
+  <img src="./assets/cats/cat-eating.svg" height="140" alt="Cat Eating" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -195,9 +195,9 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/plants/vine.svg" width="120" alt="Vine" />
-  <img src="./assets/cats/cat-sitting-tree.svg" width="180" alt="Cat Sitting in Tree" />
-  <img src="./assets/plants/bush.svg" width="120" alt="Bush" />
+  <img src="./assets/plants/vine.svg" height="140" alt="Vine" />
+  <img src="./assets/cats/cat-sitting-tree.svg" height="140" alt="Cat Sitting in Tree" />
+  <img src="./assets/plants/bush.svg" height="140" alt="Bush" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -297,9 +297,9 @@
 </p>
 
 <p align="center">
-  <img src="./assets/cats/cat-tower.svg" width="140" alt="Cat Tower" />
-  <img src="./assets/plants/potted-plant.svg" width="100" alt="Potted Plant" />
-  <img src="./assets/cats/cat-sleeping.svg" width="140" alt="Cat Sleeping" />
+  <img src="./assets/cats/cat-tower.svg" height="160" alt="Cat Tower" />
+  <img src="./assets/plants/potted-plant.svg" height="160" alt="Potted Plant" />
+  <img src="./assets/cats/cat-sleeping.svg" height="160" alt="Cat Sleeping" />
 </p>
 
 <br/>
