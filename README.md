@@ -49,9 +49,12 @@
   <img src="./assets/cats/header-about.svg" width="700" alt="About Me" />
 </p>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td>
 
-<pre lang="js"><code>const capy = {
+```js
+const capy = {
   role: "Full-Stack Developer",
   location: "Seoul, South Korea",
   code: ["Go", "TypeScript", "JavaScript", "Python"],
@@ -59,14 +62,19 @@
   currentlyBuilding: "Production-grade Go systems",
   learning: "System Design & Cloud Architecture",
   askMeAbout: ["Go", "APIs", "Microservices", "React"],
-  funFact: "I debug faster with ☕ in hand"
-};</code></pre>
+  funFact: "I debug faster with coffee in hand"
+};
+```
 
-<a href="mailto:jeonghamin1909@gmail.com">
-  <img src="https://img.shields.io/badge/Let's_Talk-jeonghamin1909%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
-</a>
+  </td>
+  </tr>
+</table>
 
-</div>
+<p align="center">
+  <a href="mailto:jeonghamin1909@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_Talk-jeonghamin1909%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+  </a>
+</p>
 
 <p align="center">
   <img src="./assets/cats/cat-waving.svg" width="180" alt="Cat Waving" />
