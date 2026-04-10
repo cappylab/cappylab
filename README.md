@@ -50,27 +50,22 @@
 <table align="center">
   <tr>
     <td width="55%" valign="top">
-
-```js
-const capy = {
+<pre lang="js"><code>const capy = {
   role: "Full-Stack Developer",
   location: "Seoul, South Korea 🇰🇷",
   code: ["Go", "TypeScript", "JavaScript", "Python"],
-  focus: "Scalable Backend Systems & Modern Frontend",
-  currentlyBuilding: "Production-grade systems with Go",
-  learning: "System Design & Cloud Architecture",
+  focus: "Scalable Backend &amp; Modern Frontend",
+  currentlyBuilding: "Production-grade Go systems",
+  learning: "System Design &amp; Cloud Architecture",
   askMeAbout: ["Go", "APIs", "Microservices", "React"],
   funFact: "I debug faster with ☕ in hand"
-};
-```
-
-<p>
-  <a href="mailto:jeonghamin1909@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_Talk-jeonghamin1909%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-</td>
+};</code></pre>
+      <p align="center">
+        <a href="mailto:jeonghamin1909@gmail.com">
+          <img src="https://img.shields.io/badge/Let's_Talk-jeonghamin1909%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+        </a>
+      </p>
+    </td>
     <td width="45%" align="center" valign="top">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lkmwj7oxs7si5ntnuxhaxklysi&redirect=true">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lkmwj7oxs7si5ntnuxhaxklysi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true&bar_color=53b14f" alt="Spotify Now Playing" width="320" />
@@ -128,10 +123,6 @@ const capy = {
 </table>
 
 <br/>
-
-<p align="center">
-  <img src="./assets/cats/cat-sleeping.svg" width="180" alt="Cat Sleeping" />
-</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -225,12 +216,6 @@ const capy = {
   </a>
 </p>
 
-<br/>
-
-<p align="center">
-  <img src="./assets/cats/cat-tower.svg" width="160" alt="Cat Tower" />
-  <img src="./assets/plants/potted-plant.svg" width="120" alt="Potted Plant" />
-</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░ 3D CONTRIBUTION ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -258,19 +243,28 @@ const capy = {
 
 <p align="center">
   <a href="https://github.com/jhm1909">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhm1909&theme=tokyonight&cache_seconds=1800" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhm1909&theme=tokyonight" alt="Profile Details" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhm1909&theme=tokyonight&cache_seconds=1800" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhm1909&theme=tokyonight&cache_seconds=1800" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhm1909&theme=tokyonight&cache_seconds=1800" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhm1909&theme=tokyonight&utcOffset=9&cache_seconds=1800" alt="Productive Time" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhm1909&theme=tokyonight" alt="Repos per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhm1909&theme=tokyonight" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhm1909&theme=tokyonight" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhm1909&theme=tokyonight&utcOffset=9" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -298,6 +292,12 @@ const capy = {
 
 <p align="center">
   <i>💬 Open to collaboration on Go backend, distributed systems, and developer tooling</i>
+</p>
+
+<p align="center">
+  <img src="./assets/cats/cat-tower.svg" width="140" alt="Cat Tower" />
+  <img src="./assets/plants/potted-plant.svg" width="100" alt="Potted Plant" />
+  <img src="./assets/cats/cat-sleeping.svg" width="140" alt="Cat Sleeping" />
 </p>
 
 <br/>
