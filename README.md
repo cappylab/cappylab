@@ -14,14 +14,27 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░ PROFILE VIEWS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhm1909&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/jhm1909?style=for-the-badge&color=bb86fc&labelColor=0d1117&label=Followers&cacheSeconds=1800" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/jhm1909?style=for-the-badge&color=ff6b6b&labelColor=0d1117&label=Stars&cacheSeconds=1800" alt="Stars" />
+  <a href="https://github.com/jhm1909">
+    <img src="https://komarev.com/ghpvc/?username=jhm1909&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/jhm1909?tab=followers">
+    <img src="https://img.shields.io/github/followers/jhm1909?style=for-the-badge&color=bb86fc&labelColor=0d1117&label=Followers" alt="Followers" />
+  </a>
+  <a href="https://github.com/jhm1909?tab=repositories">
+    <img src="https://img.shields.io/github/stars/jhm1909?style=for-the-badge&color=ff6b6b&labelColor=0d1117&label=Stars" alt="Stars" />
+  </a>
+  <a href="https://github.com/jhm1909?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=f1e05a&labelColor=0d1117&label=Public+Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjhm1909" alt="Public Repos" />
+  </a>
 </p>
 
 <br/>
@@ -34,13 +47,14 @@
   <img src="./assets/cats/header-about.svg" width="700" alt="About Me" />
 </p>
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lkmwj7oxs7si5ntnuxhaxklysi&redirect=true">
-  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lkmwj7oxs7si5ntnuxhaxklysi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true&bar_color=53b14f" alt="Spotify Now Playing" width="300" />
-</a>
+<table align="center">
+  <tr>
+    <td width="55%" valign="top">
 
 ```js
 const capy = {
   role: "Full-Stack Developer",
+  location: "Seoul, South Korea 🇰🇷",
   code: ["Go", "TypeScript", "JavaScript", "Python"],
   focus: "Scalable Backend Systems & Modern Frontend",
   currentlyBuilding: "Production-grade systems with Go",
@@ -52,11 +66,18 @@ const capy = {
 
 <p>
   <a href="mailto:jeonghamin1909@gmail.com">
-    <img src="https://img.shields.io/badge/jeonghamin1909@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Let's_Talk-jeonghamin1909%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<br style="clear:both" />
+</td>
+    <td width="45%" align="center" valign="top">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lkmwj7oxs7si5ntnuxhaxklysi&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lkmwj7oxs7si5ntnuxhaxklysi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true&bar_color=53b14f" alt="Spotify Now Playing" width="320" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./assets/cats/cat-waving.svg" width="180" alt="Cat Waving" />
@@ -73,11 +94,38 @@ const capy = {
   <img src="./assets/cats/header-tech.svg" width="700" alt="Tech Arsenal" />
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,js,py,react,nextjs,nodejs,html,css,tailwind,docker,kubernetes,postgres,redis,mongodb,git,github,linux,vscode,figma,nginx,graphql,bash,vim&perline=12&theme=dark" alt="Tech Stack" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120"><b>Languages</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=go,ts,js,py,bash&theme=dark" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma&theme=dark" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=nodejs,nginx,graphql,postgres,redis,mongodb&theme=dark" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github&theme=dark" alt="DevOps" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=vscode,vim&theme=dark" alt="Tools" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -168,11 +216,13 @@ const capy = {
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhm1909/jhm1909/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhm1909/jhm1909/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/jhm1909/jhm1909/output/github-snake-dark.svg" />
-  </picture>
+  <a href="https://github.com/jhm1909">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhm1909/jhm1909/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhm1909/jhm1909/output/github-snake.svg" />
+      <img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jhm1909/jhm1909/output/github-snake-dark.svg" />
+    </picture>
+  </a>
 </p>
 
 <br/>
@@ -234,21 +284,20 @@ const capy = {
 
 <p align="center">
   <a href="mailto:jeonghamin1909@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://github.com/jhm1909">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/jhm1909?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="Portfolio" />
   </a>
 </p>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░ QUOTE ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <i>💬 Open to collaboration on Go backend, distributed systems, and developer tooling</i>
 </p>
 
 <br/>
@@ -258,7 +307,7 @@ const capy = {
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <b>Thanks for visiting! Have a purrfect day! 🐱</b>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+visiting!+%F0%9F%90%B1;Have+a+purrfect+day!;Let's+build+something+amazing+together" alt="Thanks Typing" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bb86fc,50:6366f1,100:00d4ff&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bb86fc,50:6366f1,100:00d4ff&height=150&section=footer&text=See%20you%20around!&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=fadeIn" />
