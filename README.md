@@ -2,7 +2,9 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6366f1,100:bb86fc&height=300&section=header&text=Welcome%20to%20Capy's%20Universe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=55&descSize=18&descColor=c9d1d9" />
+<a href="https://github.com/jhm1909">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6366f1,100:bb86fc&height=300&section=header&text=Welcome%20to%20Capy's%20Universe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=55&descSize=18&descColor=c9d1d9" alt="Welcome Banner" />
+</a>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░ TYPING SVG ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -134,8 +136,8 @@
 
 <p align="center">
   <a href="https://github.com/jhm1909">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhm1909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=bb86fc&text_color=c9d1d9&ring_color=00d4ff&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhm1909&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=10&cache_seconds=1800" alt="Top Languages" />
+    <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhm1909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=bb86fc&text_color=c9d1d9&ring_color=00d4ff&count_private=true&include_all_commits=true&card_width=450" alt="GitHub Stats" />
+    <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhm1909&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8&card_width=350" alt="Top Languages" />
   </a>
 </p>
 
@@ -186,7 +188,7 @@
 
 <p align="center">
   <a href="https://github.com/jhm1909">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhm1909&bg_color=0d1117&color=00d4ff&line=bb86fc&point=ff6b6b&area=true&area_color=00d4ff&hide_border=true&custom_title=Capy's%20Contribution%20Graph&cache_seconds=1800" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhm1909&bg_color=0d1117&color=00d4ff&line=bb86fc&point=ff6b6b&area=true&area_color=00d4ff&hide_border=true&custom_title=Capy's%20Contribution%20Activity%20%E2%80%94%20Last%2031%20Days&radius=8" alt="Activity Graph" />
   </a>
 </p>
 
@@ -211,7 +213,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhm1909/jhm1909/output/github-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhm1909/jhm1909/output/github-snake.svg" />
-      <img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jhm1909/jhm1909/output/github-snake-dark.svg" />
+      <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jhm1909/jhm1909/output/github-snake-dark.svg" />
     </picture>
   </a>
 </p>
@@ -227,7 +229,7 @@
 
 <p align="center">
   <a href="https://github.com/jhm1909">
-    <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
+    <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
   </a>
 </p>
 
