@@ -127,10 +127,7 @@ const capy = {
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <picture>
-      <source srcset="https://github-trophies.vercel.app/?username=jhm1909&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
-      <img src="https://profile-trophy.vercel.app/?username=jhm1909&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" alt="GitHub Trophies" />
-    </picture>
+    <img src="https://github-trophies.vercel.app/?username=jhm1909&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&v=2" alt="GitHub Trophies" />
   </a>
 </p>
 
