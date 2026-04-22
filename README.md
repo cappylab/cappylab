@@ -127,28 +127,6 @@ const cappy = {
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░ ACTIVITY GRAPH ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="./assets/cats/header-activity.svg" width="700" alt="Contribution Activity" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/jhm1909">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhm1909&bg_color=0d1117&color=00d4ff&line=bb86fc&point=ff6b6b&area=true&area_color=00d4ff&hide_border=true&custom_title=Cappy's%20Contribution%20Activity%20%E2%80%94%20Last%2031%20Days&radius=8" alt="Activity Graph" />
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="./assets/plants/vine.svg" height="140" alt="Vine" />
-  <img src="./assets/cats/cat-sitting-tree.svg" height="140" alt="Cat Sitting in Tree" />
-  <img src="./assets/plants/bush.svg" height="140" alt="Bush" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░ SNAKE GRAPH ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
