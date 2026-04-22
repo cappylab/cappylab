@@ -125,6 +125,23 @@ const cappy = {
 
 <br/>
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/jhm1909">
+        <img src="https://streak-stats.demolab.com?user=jhm1909&theme=tokyonight&hide_border=true&background=0d1117&stroke=bb86fc&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=bb86fc&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&date_format=j%20M" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/jhm1909">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhm1909&bg_color=0d1117&color=00d4ff&line=bb86fc&point=ff6b6b&area=true&area_color=00d4ff&hide_border=true&custom_title=Contribution%20Activity&radius=12&height=300" alt="Activity Graph" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░ 3D CONTRIBUTION ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
