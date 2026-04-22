@@ -127,26 +127,6 @@ const cappy = {
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="./assets/cats/header-trophies.svg" width="700" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=jhm1909&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&v=2" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="./assets/cats/cat-chasing-butterfly.svg" width="220" alt="Cat Chasing Butterfly" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░ ACTIVITY GRAPH ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
