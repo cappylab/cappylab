@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/jhm1909">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6366f1,100:bb86fc&height=300&section=header&text=Welcome%20to%20Capy's%20Universe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=55&descSize=18&descColor=c9d1d9" alt="Welcome Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:6366f1,100:bb86fc&height=300&section=header&text=Welcome%20to%20Cappy's%20Universe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=55&descSize=18&descColor=c9d1d9" alt="Welcome Banner" />
 </a>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -14,10 +14,6 @@
   <a href="https://github.com/jhm1909">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Full-Stack+Developer+%7C+Go+Enthusiast;Scalable+systems+%26+beautiful+interfaces;Turning+coffee+into+production-grade+code;Backend+by+day%2C+Frontend+by+night;Always+learning%2C+always+building" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -54,7 +50,7 @@
     <td>
 
 ```js
-const capy = {
+const cappy = {
   role: "Full-Stack Developer",
   location: "Seoul, South Korea",
   code: ["Go", "TypeScript", "JavaScript", "Python"],
@@ -196,7 +192,7 @@ const capy = {
 
 <p align="center">
   <a href="https://github.com/jhm1909">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhm1909&bg_color=0d1117&color=00d4ff&line=bb86fc&point=ff6b6b&area=true&area_color=00d4ff&hide_border=true&custom_title=Capy's%20Contribution%20Activity%20%E2%80%94%20Last%2031%20Days&radius=8" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhm1909&bg_color=0d1117&color=00d4ff&line=bb86fc&point=ff6b6b&area=true&area_color=00d4ff&hide_border=true&custom_title=Cappy's%20Contribution%20Activity%20%E2%80%94%20Last%2031%20Days&radius=8" alt="Activity Graph" />
   </a>
 </p>
 
