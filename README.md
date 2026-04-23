@@ -147,45 +147,11 @@ const cappy = {
 
 <br/>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%207%20mins-blue?style=flat)
-
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Tuesday                  131 commits         █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-Wednesday                221 commits         █████████░░░░░░░░░░░░░░░░   36.05 % 
-Thursday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Friday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Saturday                 11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Sunday                   85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Markdown                 50 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Unknown Editor           50 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          22 mins             ███████████░░░░░░░░░░░░░░   45.02 % 
-jhm1909                  17 mins             █████████░░░░░░░░░░░░░░░░   34.63 % 
-life                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-
-💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 23/04/2026 15:43:30 UTC
-<!--END_SECTION:waka-->
+<p align="center">
+  <a href="https://wakatime.com/@cappy">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cappy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=bb86fc&layout=default&langs_count=8&card_width=720&custom_title=Weekly%20WakaTime%20Stats" alt="Weekly WakaTime Stats" />
+  </a>
+</p>
 
 <br/>
 
