@@ -93,7 +93,16 @@ const cappy = {
   <tr>
     <td align="center"><b>Tools</b></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=vscode,vim&theme=dark" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=vscode,neovim,vim,zed,warp&theme=dark" alt="Tools" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI&nbsp;Agents</b></td>
+    <td align="left">
+      <a href="https://docs.claude.com/en/docs/claude-code/overview"><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117" alt="Claude Code CLI" /></a>
+      <a href="https://antigravity.google/"><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0d1117" alt="Antigravity IDE" /></a>
+      <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=0d1117" alt="Cursor" /></a>
+      <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=0d1117" alt="GitHub Copilot" /></a>
     </td>
   </tr>
 </table>
