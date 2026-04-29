@@ -13,6 +13,9 @@ desktop.ini
 # Logs
 *.log
 
+# Docs
+docs/
+
 # Playwright/screenshot debug artifacts
 .playwright-mcp/
 *.jpeg
