@@ -149,7 +149,7 @@ const cappy = {
 
 <p align="center">
   <a href="https://wakatime.com/@cappy">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cappy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=bb86fc&layout=compact&langs_count=8&card_width=720&custom_title=Weekly%20Coding%20Stats" alt="Weekly Coding Stats" />
+    <img src="./assets/wakatime-stats.svg" alt="Weekly Coding Stats" />
   </a>
 </p>
 

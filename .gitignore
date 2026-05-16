@@ -13,6 +13,10 @@ desktop.ini
 # Logs
 *.log
 
+# Python
+__pycache__/
+*.pyc
+
 # Docs
 docs/
 
@@ -24,3 +28,5 @@ docs/
 !assets/**/*.png
 !assets/**/*.jpg
 !assets/**/*.jpeg
+
+AGENTS.md
