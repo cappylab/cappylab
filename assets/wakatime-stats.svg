@@ -11,35 +11,35 @@
 <text x="28" y="59" class="sub">WakaTime language usage - last week</text>
 <text x="28" y="88" class="label">Markdown</text>
 <rect x="190" y="77" width="440" height="12" rx="6" fill="#21262d"/>
-<rect x="190" y="77" width="125.97" height="12" rx="6" fill="#00d4ff"/>
-<text x="648" y="88" class="pct">28.63%</text>
+<rect x="190" y="77" width="108.24" height="12" rx="6" fill="#00d4ff"/>
+<text x="648" y="88" class="pct">24.6%</text>
 <text x="28" y="117" class="label">TypeScript</text>
 <rect x="190" y="106" width="440" height="12" rx="6" fill="#21262d"/>
-<rect x="190" y="106" width="102.34" height="12" rx="6" fill="#bb86fc"/>
-<text x="648" y="117" class="pct">23.26%</text>
+<rect x="190" y="106" width="93.41" height="12" rx="6" fill="#bb86fc"/>
+<text x="648" y="117" class="pct">21.23%</text>
 <text x="28" y="146" class="label">Other</text>
 <rect x="190" y="135" width="440" height="12" rx="6" fill="#21262d"/>
-<rect x="190" y="135" width="83.34" height="12" rx="6" fill="#ff6b6b"/>
-<text x="648" y="146" class="pct">18.94%</text>
+<rect x="190" y="135" width="87.78" height="12" rx="6" fill="#ff6b6b"/>
+<text x="648" y="146" class="pct">19.95%</text>
 <text x="28" y="175" class="label">Python</text>
 <rect x="190" y="164" width="440" height="12" rx="6" fill="#21262d"/>
-<rect x="190" y="164" width="34.45" height="12" rx="6" fill="#3cec76"/>
-<text x="648" y="175" class="pct">7.83%</text>
+<rect x="190" y="164" width="47.17" height="12" rx="6" fill="#3cec76"/>
+<text x="648" y="175" class="pct">10.72%</text>
 <text x="28" y="204" class="label">JSON</text>
 <rect x="190" y="193" width="440" height="12" rx="6" fill="#21262d"/>
-<rect x="190" y="193" width="29.22" height="12" rx="6" fill="#f7c843"/>
-<text x="648" y="204" class="pct">6.64%</text>
+<rect x="190" y="193" width="29.0" height="12" rx="6" fill="#f7c843"/>
+<text x="648" y="204" class="pct">6.59%</text>
 <text x="28" y="233" class="label">TSConfig</text>
 <rect x="190" y="222" width="440" height="12" rx="6" fill="#21262d"/>
-<rect x="190" y="222" width="18.3" height="12" rx="6" fill="#36e3ff"/>
-<text x="648" y="233" class="pct">4.16%</text>
-<text x="28" y="262" class="label">JavaScript</text>
+<rect x="190" y="222" width="16.76" height="12" rx="6" fill="#36e3ff"/>
+<text x="648" y="233" class="pct">3.81%</text>
+<text x="28" y="262" class="label">HTML</text>
 <rect x="190" y="251" width="440" height="12" rx="6" fill="#21262d"/>
-<rect x="190" y="251" width="10.56" height="12" rx="6" fill="#fd1464"/>
-<text x="648" y="262" class="pct">2.4%</text>
+<rect x="190" y="251" width="11.0" height="12" rx="6" fill="#fd1464"/>
+<text x="648" y="262" class="pct">2.5%</text>
 <text x="28" y="291" class="label">Rust</text>
 <rect x="190" y="280" width="440" height="12" rx="6" fill="#21262d"/>
-<rect x="190" y="280" width="8.45" height="12" rx="6" fill="#8b949e"/>
-<text x="648" y="291" class="pct">1.92%</text>
+<rect x="190" y="280" width="10.91" height="12" rx="6" fill="#8b949e"/>
+<text x="648" y="291" class="pct">2.48%</text>
 <text x="28" y="336" class="foot">Total coding time is private; public language split shown.</text>
 </svg>
